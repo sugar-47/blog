@@ -9,6 +9,6 @@ package top.zios.controller;
 public class HelloController {
     @GetMapping("/hello")
     public Object hello(){
-        return "hello world";
+        return "hello world123";
     }
 }

@@ -1,2 +1,5 @@
-D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\top\zios\controller\HelloController.java
-D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\top\zios\Application.java
+D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\com\imooc\Application.java
+D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\HelloController.java
+D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\com\imooc\config\CorsConfig.java
+D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\com\imooc\controller\PassportController.java
+D:\seehopeCoding\foodie-dev\foodie-dev-api\src\main\java\com\imooc\config\Swagger2.java
